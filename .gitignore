@@ -1,3 +1,7 @@
+
 virtual/
 .ipynb_checkpoints/
 Real Estate Data V21.csv
+.env
+.chatbot
+

@@ -1,0 +1,6 @@
+#!bin/Dev
+Make = 
+"
+python Main.py
+
+"
